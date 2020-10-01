@@ -1,31 +1,29 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="katalog.rmall.id" resolutions="1x" timestamp="1601546810983">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="katalog.rmall.id" resolutions="1x" timestamp="1601547274477">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3925123652" ref="index:all-katalog:kitalog-exo"/>
+    <file name="master_a-master.css" crc="3925123652" ref="index:all-katalog"/>
     <file name="index.css" crc="28850829" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:all-katalog:kitalog-exo"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:all-katalog"/>
     <file name="nomq_index.css" crc="3818106009" ref="index"/>
     <file name="all-katalog.css" crc="3917845567" ref="all-katalog"/>
     <file name="nomq_all-katalog.css" crc="535119916" ref="all-katalog"/>
-    <file name="kitalog-exo.css" crc="4254943687" ref="kitalog-exo"/>
-    <file name="nomq_kitalog-exo.css" crc="3902474753" ref="kitalog-exo"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:all-katalog:kitalog-exo"/>
-    <file name="museutils.js" crc="340535759" ref="index:all-katalog:kitalog-exo"/>
-    <file name="whatinput.js" crc="86476730" ref="index:all-katalog:kitalog-exo"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:all-katalog:kitalog-exo"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:all-katalog:kitalog-exo"/>
-    <file name="webpro.js" crc="4059564322" ref="index:all-katalog:kitalog-exo"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:all-katalog"/>
+    <file name="museutils.js" crc="340535759" ref="index:all-katalog"/>
+    <file name="whatinput.js" crc="86476730" ref="index:all-katalog"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:all-katalog"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:all-katalog"/>
+    <file name="webpro.js" crc="4059564322" ref="index:all-katalog"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="form_check.php" crc="4020933626" ref="index:kitalog-exo"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index:kitalog-exo"/>
-    <file name="form_process.php" crc="37464564" ref="index:kitalog-exo"/>
-    <file name="form-u12584.php" crc="3845431289" ref="index:kitalog-exo"/>
-    <file name="require.js" crc="7928878" ref="index:all-katalog:kitalog-exo"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:all-katalog:kitalog-exo"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u12584.php" crc="3845431289" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:all-katalog"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:all-katalog"/>
   </folder>
   <folder name="images">
     <file name="logo rabbani - copy.png" crc="91771278" seo="true" ref="index:all-katalog">
@@ -36,9 +34,9 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:all-katalog:kitalog-exo"/>
+    <file name="blank.gif" crc="4208392903" ref="index:all-katalog"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="subs-headline.png" crc="495776627" seo="true" ref="index:all-katalog:kitalog-exo">
+    <file name="subs-headline.png" crc="495776627" seo="true" ref="index:all-katalog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -52,7 +50,7 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="logo-bot.png" crc="3964561231" seo="true" ref="index:all-katalog:kitalog-exo">
+    <file name="logo-bot.png" crc="3964561231" seo="true" ref="index:all-katalog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -66,7 +64,7 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="logo-logo.png" crc="282078415" seo="true" ref="index:all-katalog:kitalog-exo">
+    <file name="logo-logo.png" crc="282078415" seo="true" ref="index:all-katalog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -80,7 +78,7 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="copyright.png" crc="339169195" seo="true" ref="index:all-katalog:kitalog-exo">
+    <file name="copyright.png" crc="339169195" seo="true" ref="index:all-katalog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -110,7 +108,7 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="asset-99.svg" crc="130490165" seo="true" ref="index:all-katalog:kitalog-exo">
+    <file name="asset-99.svg" crc="130490165" seo="true" ref="index:all-katalog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -190,7 +188,7 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="asset 99_poster_.png" crc="110073949" ref="index:kitalog-exo"/>
+    <file name="asset 99_poster_.png" crc="20067542" ref="index"/>
     <file name="asset-98.svg" crc="370060829" seo="true" ref="index:all-katalog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -355,7 +353,7 @@
       <caption webpage="all-katalog" alt=""/>
     </file>
     <file name="asset 100_poster_.png" crc="3795553224" ref="index"/>
-    <file name="asset-101.svg" crc="3837832036" seo="true" ref="index:all-katalog:kitalog-exo">
+    <file name="asset-101.svg" crc="3837832036" seo="true" ref="index:all-katalog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -435,8 +433,8 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="asset 101_poster_.png" crc="174479712" ref="index:kitalog-exo"/>
-    <file name="banner-bottom.png" crc="4275038182" seo="true" ref="index:all-katalog:kitalog-exo">
+    <file name="asset 101_poster_.png" crc="4174156736" ref="index"/>
+    <file name="banner-bottom.png" crc="4275038182" seo="true" ref="index:all-katalog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -450,7 +448,7 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="back.svg" crc="3843217273" seo="true" ref="all-katalog:kitalog-exo">
+    <file name="back.svg" crc="3843217273" seo="true" ref="all-katalog">
       <caption webpage="kitalog-exo" alt=""/>
       <caption webpage="kitalog-exo" alt=""/>
       <caption webpage="kitalog-exo" alt=""/>
@@ -461,7 +459,7 @@
       <caption webpage="all-katalog-copy" alt=""/>
       <caption webpage="all-katalog-copy" alt=""/>
     </file>
-    <file name="back_poster_.png" crc="4145274358" ref="all-katalog:kitalog-exo"/>
+    <file name="back_poster_.png" crc="4145274358" ref="all-katalog"/>
     <file name="cover (2).jpg" crc="82017894" seo="true" ref="all-katalog">
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
@@ -585,128 +583,7 @@
       <caption webpage="all-katalog" alt=""/>
       <caption webpage="all-katalog" alt=""/>
     </file>
-    <file name="katalog exo 0.jpg" crc="4233740674" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 1.jpg" crc="4245825984" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 2.jpg" crc="284502135" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 3.jpg" crc="3909391913" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 4.jpg" crc="4277057413" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 5.jpg" crc="4143978723" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 6.jpg" crc="196082346" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 7.jpg" crc="4275181798" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 8.jpg" crc="4055381136" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 10.jpg" crc="99861779" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 0368x368.jpg" crc="4104731712" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 1368x368.jpg" crc="4036895444" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 2368x368.jpg" crc="3826744175" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 3368x368.jpg" crc="4130529727" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 4368x368.jpg" crc="4170383984" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 5368x368.jpg" crc="3939881881" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 6368x368.jpg" crc="218798662" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 7368x368.jpg" crc="4216928805" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 8368x368.jpg" crc="392919450" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 10368x368.jpg" crc="364608013" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 0345x345.jpg" crc="4028602735" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 1345x345.jpg" crc="4262272000" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 2345x345.jpg" crc="3839708095" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 3345x345.jpg" crc="4262583961" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 4345x345.jpg" crc="348608317" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 5345x345.jpg" crc="4048565444" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 6345x345.jpg" crc="146700924" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 7345x345.jpg" crc="170398769" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 8345x345.jpg" crc="3778377331" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
-    <file name="katalog exo 10345x345.jpg" crc="3905116710" seo="true" ref="kitalog-exo">
-      <caption webpage="kitalog-exo" alt=""/>
-      <caption webpage="all-katalog-copy" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="161308804" seo="true" mt="1601546744522" redirect="true"/>
+  <file name="index.html" crc="397458927" seo="true" mt="1601547243188" redirect="true"/>
   <file name="all-katalog.html" crc="256567640" seo="true" mt="1601544397694" redirect="true"/>
-  <file name="kitalog-exo.html" crc="130753101" seo="true" mt="1601546797074" redirect="true"/>
 </manifest>
