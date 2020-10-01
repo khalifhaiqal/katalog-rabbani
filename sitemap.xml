@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://katalog.rmall.id/index.html</loc>
-    <lastmod>2020-09-30</lastmod>
+    <lastmod>2020-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -54,18 +54,27 @@
       <image:loc>http://katalog.rmall.id/images/banner-bottom.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://katalog.rmall.id/images/rmall%201280x720425x239.jpg</image:loc>
+      <image:loc>http://katalog.rmall.id/images/rmall%201280x720425x240.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://katalog.rmall.id/images/banner-bekam425x239.jpg</image:loc>
+      <image:loc>http://katalog.rmall.id/images/banner-bekam425x240.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://katalog.rmall.id/images/banner-apps425x239.jpg</image:loc>
+      <image:loc>http://katalog.rmall.id/images/banner-apps425x240.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/rmall%201280x720400x226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/banner-bekam400x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/banner-apps400x225.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://katalog.rmall.id/all-katalog.html</loc>
-    <lastmod>2020-09-30</lastmod>
+    <lastmod>2020-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -124,6 +133,45 @@
     </image:image>
     <image:image>
       <image:loc>http://katalog.rmall.id/images/cover%20(9).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/cover%20(10).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/cover%20(12).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/sajadah.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/quranicfood.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/00295x296_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/cover295x296.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/00295x296.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/cover%20(11).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/cover%20(13).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/sendal.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/poster.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/bani_april_2020_banner.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://katalog.rmall.id/images/01295x296.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
